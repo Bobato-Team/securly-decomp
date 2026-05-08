@@ -1,0 +1,15 @@
+{
+	"name": "com.securly.classroom_native_host",
+	"description": "Securly Classroom Native Host",
+	"path": "ClassroomNativeHost.exe",
+	"type": "stdio",
+	"allowed_origins": [
+		"chrome-extension://jfbecfmiegcjddenjhlbhlikcbfmnafd/",
+		"chrome-extension://fidhojihdcadkpkkimalcgblniedhecp/",
+		"chrome-extension://kgbbkfikebgafcfjgpdflkcoihjjlfmd/",
+		"chrome-extension://ffndjmfjhjdamkocbfonjmoaecaflhga/",
+		"chrome-extension://ljbaelmjoebdeieggdgiaaapncdicekm/",
+		"chrome-extension://hkobaiihndnbfhbkmjjfbdimfbdcppdh/",
+		"chrome-extension://kehmdnoegifbeolchcgjcpbmjbdnndnf/"
+	]
+}
